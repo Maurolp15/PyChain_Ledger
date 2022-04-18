@@ -10,7 +10,7 @@ I created a new data class which serves as a blueprint for the financial records
 
 ## Streamlit Interface – Run from Terminal
 
-
+https://github.com/Maurolp15/Unit_18_PyChain_Ledger/tree/main/Screenshots#:~:text=Streamlit_Screenshot_1.png 
 
 ## Streamlit Interface – PyChain Transaction
  
