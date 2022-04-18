@@ -16,6 +16,6 @@ I created a new data class which serves as a blueprint for the financial records
  
 
 
-## Streamlit Interface – Blockchain and Verification
+## Streamlit Interface – Blockchain and Blockchain Verification
 
 
